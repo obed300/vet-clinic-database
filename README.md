@@ -126,6 +126,6 @@ I would like to appreciate[Microverse](https://www.microverse.org/) for providin
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT licensed](https://raw.githubusercontent.com/obed300/vet-clinic-database/main/LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
