@@ -12,6 +12,7 @@
     - [Usage](#usage)
     - [Usage](#usage-1)
   - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -91,6 +92,16 @@ Install this project with:
 - GitHub: [@obed300](https://github.com/obed300)
 - Twitter: [@bamfo_obed](https://twitter.com/bamfo_obed)
 - LinkedIn: [Obed_Bamfo](https://www.linkedin.com/in/obedbamfo)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Query and update animals table]**
+- [ ] **[Query multiple tables]**
+- [ ] **[Add "join table" for visits]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
