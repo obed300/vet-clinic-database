@@ -97,7 +97,6 @@ Install this project with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Query and update animals table]**
 - [ ] **[Query multiple tables]**
 - [ ] **[Add "join table" for visits]**
 
