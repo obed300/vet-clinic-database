@@ -98,7 +98,7 @@ Install this project with:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Query multiple tables]**
-- [ ] **[Add "join table" for visits]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
