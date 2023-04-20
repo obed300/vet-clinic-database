@@ -56,3 +56,9 @@ PRIMARY KEY (id),
 ); 
 
  ALTER TABLE visits ADD COLUMN date_of_visit date;
+
+ ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+CREATE INDEX count ON visits (animals_id) WHERE animals_id = 4;
+CREATE INDEX vet_id2 ON visits (vets_id) WHERE vets_id = 2;
+CREATE INDEX owner1 ON owners (email) WHERE email = 'owner_18327@mail.com'; 
