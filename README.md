@@ -95,7 +95,7 @@ Install this project with:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-feature"></a>
 
 - [ ] **[Query multiple tables]**
 
