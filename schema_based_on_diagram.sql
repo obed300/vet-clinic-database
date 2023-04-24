@@ -1,4 +1,3 @@
-
 CREATE TABLE patients (
   id SERIAL PRIMARY KEY,
   name varchar(100),
@@ -18,7 +17,8 @@ ALTER TABLE medical_histories
 ADD CONSTRAINT fk_patient
 FOREIGN KEY (patient_id)
 REFERENCES patients (id);
-       
+
+
 CREATE TABLE treatments (
   id SERIAL PRIMARY KEY,
   type varchar(100)
@@ -54,3 +54,12 @@ CREATE TABLE invoice_items(
   FOREIGN KEY (invoice_id) REFERENCES invoices(id),
   FOREIGN KEY (treatment_id) REFERENCES treatments(id)
 );    
+
+
+
+
+CREATE INDEX medical ON medical_histories (patient_id);
+CREATE INDEX invoice1 ON invoice_items (invoice_id);
+CREATE INDEX invoice2 ON invoice_items (treatment_id);
+CREATE INDEX medical_treatment1 ON medical_treatment (treatments_id);
+CREATE INDEX medical_treatment2 ON medical_treatment (medical_histories_id);
